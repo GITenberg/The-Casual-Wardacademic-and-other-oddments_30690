@@ -1,0 +1,31 @@
+_repo: The-Casual-Wardacademic-and-other-oddments_30690
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Godley, A. D. (Alfred Denis)
+    aliases:
+    - Godley, Aluredus D.
+    - Godley, Alfred Denis
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '7676'
+    url: http://www.gutenberg.org/2009/agents/7676
+    wikipedia: http://en.wikipedia.org/wiki/A._D._Godley
+description: ''
+gutenberg_issued: '2009-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry, English'
+- !lcc 'PR'
+- !lcsh 'English wit and humor'
+title: 'The Casual Ward: Academic and Other Oddments'
+url: http://www.gutenberg.org/ebooks/30690
